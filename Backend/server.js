@@ -6,6 +6,8 @@ const cors = require("cors");
 const app = express();
 app.use(cors())
 app.use(express.json());
+require('dotenv').config();
+
 
 // Create logs folder if not exists
 const logsDir = path.join(__dirname, 'logs');
@@ -20,10 +22,16 @@ function logEvent(message) {
     console.log(logMsg.trim());
     fs.appendFileSync(path.join(logsDir, 'server.log'), logMsg);
 }
+const PORT = process.env.PORT || 5001;
 
-mongoose.connect("mongodb://mongoheydo:dtcaFrR9S9t7ozRS@mongoforheydotech-shard-00-00.5uryy.mongodb.net:27017,mongoforheydotech-shard-00-01.5uryy.mongodb.net:27017,mongoforheydotech-shard-00-02.5uryy.mongodb.net:27017/?authSource=admin&authMechanism=DEFAULT&tls=true&retryWrites=true&appName=Heydo_mongo&w=majority")
-  .then(() => logEvent(" MongoDB Connected"))
-  .catch(err => logEvent(` MongoDB connection error: ${err}`));
+const mongoURI = `mongodb://${process.env.MONGO_USER}:${process.env.MONGO_PASS}` +
+  `@${process.env.MONGO_HOST_0},${process.env.MONGO_HOST_1},${process.env.MONGO_HOST_2}/` +
+  `?authSource=${process.env.MONGO_DB}&authMechanism=DEFAULT&tls=true&retryWrites=true&appName=${process.env.MONGO_APP_NAME}&w=majority`;
+
+mongoose.connect(mongoURI)
+  .then(() => logEvent("✅ MongoDB Connected"))
+  .catch(err => logEvent(`❌ MongoDB connection error: ${err}`));
+
 
 // --- Update User Schema to have password ---
 const userSchema = new mongoose.Schema({
@@ -285,6 +293,7 @@ app.use((req, res, next) => {
 });
 
 
-app.listen(5001, () => logEvent('🚀 Server running on port 5001'));
+app.listen(PORT, () => logEvent(`🚀 Server running on port ${PORT}`));
+
 
 
