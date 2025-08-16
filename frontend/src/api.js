@@ -1,8 +1,9 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5001'
+  baseURL: process.env.BACKEND_URL || 'http://localhost:5001'
 });
+
 
 // Admin
 export const createUser = (data) => API.post('/users', data);
