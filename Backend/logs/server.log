@@ -1,3 +1,423 @@
 [2025-08-12T05:59:30.811Z] 🚀 Server running on port 5000
 [2025-08-12T05:59:33.956Z] ✅ MongoDB Connected
 [2025-08-12T06:16:38.094Z] 🚀 Server running on port 5000
+[2025-08-13T14:52:34.760Z] 🚀 Server running on port 5000
+[2025-08-13T14:52:38.810Z] ✅ MongoDB Connected
+[2025-08-13T14:53:53.801Z] 🚀 Server running on port 5000
+[2025-08-13T14:53:57.164Z] ✅ MongoDB Connected
+[2025-08-13T14:54:03.046Z] 🚀 Server running on port 5000
+[2025-08-13T14:54:06.590Z] ✅ MongoDB Connected
+[2025-08-13T14:54:57.025Z] 🚀 Server running on port 5000
+[2025-08-13T14:55:00.330Z] ✅ MongoDB Connected
+[2025-08-13T14:56:06.206Z] 🚀 Server running on port 5000
+[2025-08-13T14:56:36.203Z] ❌ MongoDB connection error: MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2025-08-13T14:57:42.618Z] 🚀 Server running on port 5000
+[2025-08-13T14:57:42.652Z] ✅ MongoDB Connected
+[2025-08-13T14:57:52.178Z] 🚀 Server running on port 5000
+[2025-08-13T14:57:52.191Z] ✅ MongoDB Connectedfr
+[2025-08-13T14:58:33.098Z] 🚀 Server running on port 5000
+[2025-08-13T14:58:33.114Z] ✅ MongoDB Connected
+[2025-08-13T14:58:34.633Z] 🚀 Server running on port 5000
+[2025-08-13T14:58:34.647Z] ✅ MongoDB Connected
+[2025-08-13T14:59:08.352Z] 🚀 Server running on port 5000
+[2025-08-13T14:59:08.366Z] ✅ MongoDB Connected
+[2025-08-13T14:59:49.366Z] 🚀 Server running on port 5000
+[2025-08-13T14:59:49.381Z]  MongoDB Connected
+[2025-08-13T15:07:53.395Z] 🚀 Server running on port 5000
+[2025-08-13T15:07:53.417Z]  MongoDB Connected
+[2025-08-13T15:08:37.780Z] 🚀 Server running on port 5000
+[2025-08-13T15:08:37.793Z]  MongoDB Connected
+[2025-08-13T15:10:10.895Z] 🚀 Server running on port 5000
+[2025-08-13T15:10:10.909Z]  MongoDB Connected
+[2025-08-13T15:10:26.845Z] 🚀 Server running on port 5000
+[2025-08-13T15:10:26.857Z]  MongoDB Connected
+[2025-08-13T15:10:30.375Z] 🚀 Server running on port 5000
+[2025-08-13T15:10:30.389Z]  MongoDB Connected
+[2025-08-13T15:10:59.095Z] 🚀 Server running on port 5000
+[2025-08-13T15:10:59.108Z]  MongoDB Connected
+[2025-08-13T15:11:47.914Z] 🚀 Server running on port 5000
+[2025-08-13T15:11:47.928Z]  MongoDB Connected
+[2025-08-13T15:11:52.678Z] 🚀 Server running on port 5001
+[2025-08-13T15:11:52.692Z]  MongoDB Connected
+[2025-08-13T15:11:56.439Z] 👤 User created: {"name":"John Doe","role":"updater","_id":"689cab3cb19cbb50d662258b","__v":0}
+[2025-08-13T15:12:25.042Z] 👤 User created: {"name":"Akshmit","role":"admin","_id":"689cab59b19cbb50d662258d","__v":0}
+[2025-08-13T15:12:30.189Z] 📦 Fetched 0 products
+[2025-08-13T15:12:30.196Z] 📦 Fetched 0 products
+[2025-08-13T15:12:32.315Z] 📋 Fetched 0 pending updates
+[2025-08-13T15:12:32.322Z] 📋 Fetched 0 pending updates
+[2025-08-13T15:12:46.210Z] 🚀 Server running on port 5001
+[2025-08-13T15:12:46.223Z]  MongoDB Connected
+[2025-08-13T15:15:12.693Z] 🚀 Server running on port 5001
+[2025-08-13T15:15:12.721Z]  MongoDB Connected
+[2025-08-13T15:15:14.295Z] 🚀 Server running on port 5001
+[2025-08-13T15:15:14.309Z]  MongoDB Connected
+[2025-08-13T15:15:16.363Z] 🚀 Server running on port 5001
+[2025-08-13T15:15:16.376Z]  MongoDB Connected
+[2025-08-13T15:15:40.156Z] 📦 Fetched 0 products
+[2025-08-13T15:15:41.136Z] 📦 Fetched 0 products
+[2025-08-13T15:16:03.861Z] 🚀 Server running on port 5001
+[2025-08-13T15:16:03.878Z]  MongoDB Connected
+[2025-08-13T15:16:07.016Z] 🚀 Server running on port 5001
+[2025-08-13T15:16:07.029Z]  MongoDB Connected
+[2025-08-13T15:16:09.435Z] 📦 Fetched 3 products
+[2025-08-13T15:16:12.854Z] 📋 Fetched 0 pending updates
+[2025-08-13T15:16:12.859Z] 📋 Fetched 0 pending updates
+[2025-08-13T15:16:15.245Z] 📦 Fetched 3 products
+[2025-08-13T15:16:15.252Z] 📦 Fetched 3 products
+[2025-08-13T15:16:21.248Z] ✏️ Update request created: {"product_id":"689cac33006a7516e01f511a","updated_data":{"field":"dw"},"status":"pending","_id":"689cac4545776dfd748cb083","__v":0}
+[2025-08-13T15:19:42.981Z] 📦 Fetched 3 products
+[2025-08-13T15:19:42.990Z] 📦 Fetched 3 products
+[2025-08-13T15:19:46.087Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:19:46.094Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:19:48.006Z] 📦 Fetched 3 products
+[2025-08-13T15:19:48.013Z] 📦 Fetched 3 products
+[2025-08-13T15:19:51.690Z] 📦 Fetched 3 products
+[2025-08-13T15:19:51.696Z] 📦 Fetched 3 products
+[2025-08-13T15:22:54.961Z] 📦 Fetched 3 products
+[2025-08-13T15:22:54.968Z] 📦 Fetched 3 products
+[2025-08-13T15:23:46.905Z] 📦 Fetched 3 products
+[2025-08-13T15:23:46.912Z] 📦 Fetched 3 products
+[2025-08-13T15:24:02.465Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:24:02.474Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:24:45.378Z] 📦 Fetched 3 products
+[2025-08-13T15:24:45.384Z] 📦 Fetched 3 products
+[2025-08-13T15:24:54.231Z] 📦 Fetched 3 products
+[2025-08-13T15:24:54.238Z] 📦 Fetched 3 products
+[2025-08-13T15:24:57.459Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:24:57.465Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:24:58.138Z] 📦 Fetched 3 products
+[2025-08-13T15:24:58.143Z] 📦 Fetched 3 products
+[2025-08-13T15:26:27.921Z] 📦 Fetched 3 products
+[2025-08-13T15:26:37.460Z] ⚠️ Duplicate request blocked for product 689cac33006a7516e01f511a
+[2025-08-13T15:26:38.468Z] ⚠️ Duplicate request blocked for product 689cac33006a7516e01f511a
+[2025-08-13T15:26:39.951Z] ⚠️ Duplicate request blocked for product 689cac33006a7516e01f511a
+[2025-08-13T15:26:49.086Z] ⚠️ Duplicate request blocked for product 689cac33006a7516e01f511a
+[2025-08-13T15:26:57.881Z] ✏️ Update request created: {"product_id":"689cac33006a7516e01f511b","updated_data":{"_id":"689cac33006a7516e01f511b","Barcode":"987654321098","Cost Price (QuickBooks)":8.99,"Fremont":50,"INV date":"2025-07-28","INV number":"INV-002","Item Name":"Whole Wheat Bread","Karthik":30,"Milpitas":25,"Priority":"Low","SKU":"BRD-002","Vendor Name":"Baker's Choice","__v":0},"status":"pending","_id":"689caec145776dfd748cb0a6","__v":0}
+[2025-08-13T15:27:05.095Z] ✏️ Update request created: {"product_id":"689cac33006a7516e01f511c","updated_data":{"_id":"689cac33006a7516e01f511c","Barcode":"5556667778889","Cost Price (QuickBooks)":"22.752","Fremont":5,"INV date":"2025-07-15","INV number":"INV-003","Item Name":"Extra Virgin Olive Oil","Karthik":3,"Milpitas":7,"Priority":"High","SKU":"OIL-003","Vendor Name":"Mediterranean Imports","__v":0},"status":"pending","_id":"689caec945776dfd748cb0aa","__v":0}
+[2025-08-13T15:27:08.563Z] 📋 Fetched 3 pending updates
+[2025-08-13T15:27:08.572Z] 📋 Fetched 3 pending updates
+[2025-08-13T15:28:13.731Z] 📦 Fetched 3 products
+[2025-08-13T15:28:13.738Z] 📦 Fetched 3 products
+[2025-08-13T15:28:17.392Z] 📋 Fetched 3 pending updates
+[2025-08-13T15:28:17.399Z] 📋 Fetched 3 pending updates
+[2025-08-13T15:31:03.939Z] ❌ Update rejected: 689cac4545776dfd748cb083
+[2025-08-13T15:31:12.435Z] ✅ Update approved: 689caec945776dfd748cb0aa
+[2025-08-13T15:31:16.771Z] 📦 Fetched 3 products
+[2025-08-13T15:31:16.778Z] 📦 Fetched 3 products
+[2025-08-13T15:31:48.639Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:31:48.645Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:31:53.392Z] 📦 Fetched 3 products
+[2025-08-13T15:31:53.396Z] 📦 Fetched 3 products
+[2025-08-13T15:31:54.313Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:31:54.320Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:32:05.897Z] 📦 Fetched 3 products
+[2025-08-13T15:32:05.903Z] 📦 Fetched 3 products
+[2025-08-13T15:33:13.754Z] 📦 Fetched 3 products
+[2025-08-13T15:33:13.761Z] 📦 Fetched 3 products
+[2025-08-13T15:33:16.885Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:16.888Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:36.116Z] 📦 Fetched 3 products
+[2025-08-13T15:33:36.122Z] 📦 Fetched 3 products
+[2025-08-13T15:33:37.833Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:37.838Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:42.446Z] 📦 Fetched 3 products
+[2025-08-13T15:33:42.452Z] 📦 Fetched 3 products
+[2025-08-13T15:33:46.963Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:46.969Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:33:50.267Z] 📦 Fetched 3 products
+[2025-08-13T15:33:50.272Z] 📦 Fetched 3 products
+[2025-08-13T15:35:31.433Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:35:31.439Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:35:43.912Z] 📦 Fetched 3 products
+[2025-08-13T15:35:43.916Z] 📦 Fetched 3 products
+[2025-08-13T15:35:51.243Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:35:51.248Z] 📋 Fetched 1 pending updates
+[2025-08-13T15:35:55.526Z] 📦 Fetched 3 products
+[2025-08-13T15:35:55.533Z] 📦 Fetched 3 products
+[2025-08-13T15:36:53.741Z] ✏️ Update request created: {"product_id":"689cac33006a7516e01f511a","updated_data":{"_id":"689cac33006a7516e01f511a","Barcode":"1234567890123s","Cost Price (QuickBooks)":"15.512123","Fremont":20,"INV date":"2025-08-01","INV number":"INV-001","Item Name":"Organic Appless","Karthik":10,"Milpitas":15,"Priority":"Medium","SKU":"APL-001","Vendor Name":"Fresh Farms Ltd.","__v":0},"status":"pending","_id":"689cb11545776dfd748cb0d9","__v":0}
+[2025-08-13T15:36:57.058Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:36:57.064Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:37:14.195Z] 📦 Fetched 3 products
+[2025-08-13T15:37:14.201Z] 📦 Fetched 3 products
+[2025-08-13T15:37:41.881Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:37:41.886Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:38:33.963Z] 📦 Fetched 3 products
+[2025-08-13T15:38:33.971Z] 📦 Fetched 3 products
+[2025-08-13T15:39:02.594Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:39:02.599Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:48:17.593Z] 📋 Fetched 2 pending updates
+[2025-08-13T15:48:17.597Z] 📋 Fetched 2 pending updates
+[2025-08-13T16:17:42.674Z] 📋 Fetched 2 pending updates
+[2025-08-13T16:17:42.677Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:49:47.536Z] 🚀 Server running on port 5001
+[2025-08-15T13:49:47.574Z]  MongoDB Connected
+[2025-08-15T13:50:00.210Z] 📦 Fetched 3 products
+[2025-08-15T13:50:00.220Z] 📦 Fetched 3 products
+[2025-08-15T13:50:01.394Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:50:01.407Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:00.993Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T13:51:00.997Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:51:01.839Z] ❌ Update rejected: 689cb11545776dfd748cb0d9
+[2025-08-15T13:51:01.841Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:51:02.840Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T13:51:02.841Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:51:03.004Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T13:51:03.005Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:51:04.367Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:04.377Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:05.391Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:05.400Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:07.107Z] ✅ Update approved: 689caec145776dfd748cb0a6
+[2025-08-15T13:51:07.108Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:51:14.744Z] 📦 Fetched 3 products
+[2025-08-15T13:51:14.750Z] 📦 Fetched 3 products
+[2025-08-15T13:51:20.517Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:21.183Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:21.383Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:21.550Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:21.700Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:21.867Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.033Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.200Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.367Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.534Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.683Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:22.849Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:23.016Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:23.184Z] ⚠️ Update request failed: Missing product_id, updated_data, or updated_by
+[2025-08-15T13:51:24.617Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:24.627Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:51:36.992Z] 🚀 Server running on port 5001
+[2025-08-15T13:51:37.009Z]  MongoDB Connected
+[2025-08-15T13:51:38.753Z] ✅ Update approved: 689caec145776dfd748cb0a6
+[2025-08-15T13:51:38.756Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T13:52:38.257Z] 📦 Fetched 3 products
+[2025-08-15T13:52:38.266Z] 📦 Fetched 3 products
+[2025-08-15T13:52:43.804Z] ❌ Error creating update request: CastError: Cast to ObjectId failed for value "PUT_LOGGED_IN_USER_ID_HERE" (type string) at path "_id" for model "User"
+[2025-08-15T13:52:44.601Z] ❌ Error creating update request: CastError: Cast to ObjectId failed for value "PUT_LOGGED_IN_USER_ID_HERE" (type string) at path "_id" for model "User"
+[2025-08-15T13:52:44.851Z] ❌ Error creating update request: CastError: Cast to ObjectId failed for value "PUT_LOGGED_IN_USER_ID_HERE" (type string) at path "_id" for model "User"
+[2025-08-15T13:52:56.873Z] 🚀 Server running on port 5001
+[2025-08-15T13:52:56.889Z]  MongoDB Connected
+[2025-08-15T13:52:59.411Z] 📦 Fetched 3 products
+[2025-08-15T13:52:59.418Z] 📦 Fetched 3 products
+[2025-08-15T13:53:03.430Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:53:03.448Z] 📋 Fetched 2 pending updates
+[2025-08-15T13:53:15.614Z] 📦 Fetched 3 products
+[2025-08-15T13:53:15.626Z] 📦 Fetched 3 products
+[2025-08-15T13:53:18.799Z] ❌ Error creating update request: CastError: Cast to ObjectId failed for value "PUT_LOGGED_IN_USER_ID_HERE" (type string) at path "_id" for model "User"
+[2025-08-15T13:54:00.369Z] 🚀 Server running on port 5001
+[2025-08-15T13:54:00.407Z]  MongoDB Connected
+[2025-08-15T13:54:02.053Z] 🚀 Server running on port 5001
+[2025-08-15T13:54:02.067Z]  MongoDB Connected
+[2025-08-15T13:54:02.739Z] 🚀 Server running on port 5001
+[2025-08-15T13:54:02.754Z]  MongoDB Connected
+[2025-08-15T13:54:11.012Z] 🚀 Server running on port 5001
+[2025-08-15T13:54:11.029Z]  MongoDB Connected
+[2025-08-15T13:54:58.537Z] 🚀 Server running on port 5001
+[2025-08-15T13:54:58.552Z]  MongoDB Connected
+[2025-08-15T13:55:43.598Z] 🚀 Server running on port 5001
+[2025-08-15T13:55:43.614Z]  MongoDB Connected
+[2025-08-15T13:55:45.145Z] 🚀 Server running on port 5001
+[2025-08-15T13:55:45.160Z]  MongoDB Connected
+[2025-08-15T13:56:45.487Z] 👤 User created: {"name":"Heydo","role":"admin","_id":"689f3c9df4f0db0dce1aead7","__v":0}
+[2025-08-15T13:57:26.566Z] 🚀 Server running on port 5001
+[2025-08-15T13:57:26.586Z]  MongoDB Connected
+[2025-08-15T13:57:28.513Z] 🚀 Server running on port 5001
+[2025-08-15T13:57:28.526Z]  MongoDB Connected
+[2025-08-15T13:58:02.084Z] 🚀 Server running on port 5001
+[2025-08-15T13:58:02.099Z]  MongoDB Connected
+[2025-08-15T14:07:31.090Z] 🚀 Server running on port 5001
+[2025-08-15T14:07:31.107Z]  MongoDB Connected
+[2025-08-15T14:11:44.474Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:11:44.484Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:11:46.107Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:11:46.119Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:11:47.477Z] 📦 Fetched 3 products
+[2025-08-15T14:11:47.485Z] 📦 Fetched 3 products
+[2025-08-15T14:11:49.034Z] 📦 Fetched 3 products
+[2025-08-15T14:11:49.042Z] 📦 Fetched 3 products
+[2025-08-15T14:14:18.431Z] 🚀 Server running on port 5001
+[2025-08-15T14:14:18.447Z]  MongoDB Connected
+[2025-08-15T14:15:15.299Z] 🚀 Server running on port 5001
+[2025-08-15T14:15:15.323Z]  MongoDB Connected
+[2025-08-15T14:15:37.357Z] 👤 User created: {"id":"689f4109d20b8c386918699a","name":"HeydoTech","role":"approver"}
+[2025-08-15T14:15:54.614Z] 👤 User created: {"id":"689f411ad20b8c386918699c","name":"va","role":"updater"}
+[2025-08-15T14:15:56.652Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:15:56.666Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:52:16.692Z] ❌ Login failed for: vis
+[2025-08-15T14:52:25.275Z] 🔓 Login successful for: va
+[2025-08-15T14:52:27.842Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:52:27.856Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:52:29.429Z] 📦 Fetched 3 products
+[2025-08-15T14:52:29.435Z] 📦 Fetched 3 products
+[2025-08-15T14:53:45.305Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:53:45.316Z] 📋 Fetched 2 pending updates
+[2025-08-15T14:55:33.330Z] 📦 Fetched 3 products
+[2025-08-15T14:55:33.335Z] 📦 Fetched 3 products
+[2025-08-15T14:55:34.013Z] 📦 Fetched 3 products
+[2025-08-15T14:55:34.018Z] 📦 Fetched 3 products
+[2025-08-15T14:57:36.776Z] 🚀 Server running on port 5001
+[2025-08-15T14:57:36.799Z]  MongoDB Connected
+[2025-08-15T14:58:04.383Z] 🚀 Server running on port 5001
+[2025-08-15T14:58:04.401Z]  MongoDB Connected
+[2025-08-15T14:59:15.327Z] 📦 Fetched 3 products
+[2025-08-15T14:59:17.436Z] 📦 Fetched 3 products
+[2025-08-15T14:59:17.443Z] 📦 Fetched 3 products
+[2025-08-15T14:59:26.756Z] 📋 Fetched 3 pending updates
+[2025-08-15T14:59:26.769Z] 📋 Fetched 3 pending updates
+[2025-08-15T14:59:29.904Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T14:59:29.906Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T14:59:30.514Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T14:59:30.517Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T14:59:30.715Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T14:59:30.716Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:00:31.316Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:00:38.332Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:00:38.334Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:00:38.815Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:00:38.816Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:00:38.981Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:00:38.982Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:00:43.114Z] 🚀 Server running on port 5001
+[2025-08-15T15:00:43.129Z]  MongoDB Connected
+[2025-08-15T15:00:45.355Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:00:45.364Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:01:54.764Z] 🚀 Server running on port 5001
+[2025-08-15T15:01:54.781Z]  MongoDB Connected
+[2025-08-15T15:01:55.981Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:01:55.995Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:01:57.411Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:01:57.420Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:02:54.185Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:03:02.862Z] 📦 Fetched 3 products
+[2025-08-15T15:03:02.869Z] 📦 Fetched 3 products
+[2025-08-15T15:03:10.957Z] 📋 Fetched 4 pending updates
+[2025-08-15T15:03:10.966Z] 📋 Fetched 4 pending updates
+[2025-08-15T15:03:13.792Z] ✅ Update approved: 689f4c29afae692beed35976
+[2025-08-15T15:03:16.032Z] ❌ Update rejected: 689cb11545776dfd748cb0d9
+[2025-08-15T15:03:16.034Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:03:29.568Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:03:29.580Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:03:32.086Z] ✅ Update approved: 689f4b49e4ae8595cee951ae
+[2025-08-15T15:03:34.916Z] ❌ Update rejected: 689cb11545776dfd748cb0d9
+[2025-08-15T15:03:34.917Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:03:57.679Z] 📦 Fetched 3 products
+[2025-08-15T15:03:57.685Z] 📦 Fetched 3 products
+[2025-08-15T15:04:04.446Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:04:04.459Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:04:06.670Z] ✅ Update approved: 689f4c61afae692beed3598f
+[2025-08-15T15:04:08.772Z] 📦 Fetched 3 products
+[2025-08-15T15:04:08.778Z] 📦 Fetched 3 products
+[2025-08-15T15:04:45.034Z] 🚀 Server running on port 5001
+[2025-08-15T15:04:45.050Z]  MongoDB Connected
+[2025-08-15T15:04:49.572Z] 🚀 Server running on port 5001
+[2025-08-15T15:04:49.585Z]  MongoDB Connected
+[2025-08-15T15:04:52.401Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:04:52.412Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:04:53.500Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:04:53.502Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:05:48.082Z] 🚀 Server running on port 5001
+[2025-08-15T15:05:48.097Z]  MongoDB Connected
+[2025-08-15T15:05:51.180Z] 🚀 Server running on port 5001
+[2025-08-15T15:05:51.195Z]  MongoDB Connected
+[2025-08-15T15:06:02.489Z] 📦 Fetched 3 products
+[2025-08-15T15:06:02.499Z] 📦 Fetched 3 products
+[2025-08-15T15:06:03.369Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:06:03.384Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:06:04.570Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:06:04.574Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:06:05.871Z] ❌ Update rejected: 689cb11545776dfd748cb0d9
+[2025-08-15T15:06:05.872Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:06:10.285Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:06:10.299Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:06:15.020Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:06:15.024Z] ❌ Error approving/rejecting request: ValidationError: updated_by: Path `updated_by` is required., updated_data: Only 'Karthik', 'Milpitas', and 'Fremont' can be updated
+[2025-08-15T15:06:55.643Z] 🚀 Server running on port 5001
+[2025-08-15T15:06:55.666Z]  MongoDB Connected
+[2025-08-15T15:07:00.687Z] ❌ Update rejected: 689caec145776dfd748cb0a6
+[2025-08-15T15:07:03.561Z] ✅ Update approved: 689cb11545776dfd748cb0d9
+[2025-08-15T15:07:07.280Z] 📦 Fetched 3 products
+[2025-08-15T15:07:07.288Z] 📦 Fetched 3 products
+[2025-08-15T15:07:09.389Z] 📦 Fetched 3 products
+[2025-08-15T15:07:09.395Z] 📦 Fetched 3 products
+[2025-08-15T15:07:12.720Z] 📦 Fetched 3 products
+[2025-08-15T15:07:12.727Z] 📦 Fetched 3 products
+[2025-08-15T15:08:36.907Z] 📦 Fetched 3 products
+[2025-08-15T15:08:36.912Z] 📦 Fetched 3 products
+[2025-08-15T15:08:42.281Z] 📦 Fetched 3 products
+[2025-08-15T15:08:42.286Z] 📦 Fetched 3 products
+[2025-08-15T15:09:53.805Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:09:53.820Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:11:15.855Z] 🚀 Server running on port 5001
+[2025-08-15T15:11:15.876Z]  MongoDB Connected
+[2025-08-15T15:11:54.715Z] 🚀 Server running on port 5001
+[2025-08-15T15:11:54.728Z]  MongoDB Connected
+[2025-08-15T15:11:59.003Z] 📦 Fetched 3 products
+[2025-08-15T15:11:59.013Z] 📦 Fetched 3 products
+[2025-08-15T15:12:00.454Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:12:00.465Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:12:01.253Z] 📦 Fetched 3 products
+[2025-08-15T15:12:01.258Z] 📦 Fetched 3 products
+[2025-08-15T15:12:25.837Z] 🚀 Server running on port 5001
+[2025-08-15T15:12:25.852Z]  MongoDB Connected
+[2025-08-15T15:13:30.524Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:13:30.540Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:14:31.080Z] ❌ Update rejected: 689f4dbe515eaf74c175085f
+[2025-08-15T15:14:33.991Z] ❌ Update rejected: 689f4e987b48aa7455c1fdd7
+[2025-08-15T15:14:35.679Z] 📦 Fetched 3 products
+[2025-08-15T15:14:35.689Z] 📦 Fetched 3 products
+[2025-08-15T15:14:41.787Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:14:41.795Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:14:47.461Z] 📦 Fetched 3 products
+[2025-08-15T15:14:47.465Z] 📦 Fetched 3 products
+[2025-08-15T15:14:52.289Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:14:52.302Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:14:54.856Z] 📦 Fetched 3 products
+[2025-08-15T15:14:54.862Z] 📦 Fetched 3 products
+[2025-08-15T15:16:38.209Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:16:38.226Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:17:31.761Z] 🚀 Server running on port 5001
+[2025-08-15T15:17:31.777Z]  MongoDB Connected
+[2025-08-15T15:17:35.595Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:17:35.606Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:17:36.700Z] 📦 Fetched 3 products
+[2025-08-15T15:17:36.705Z] 📦 Fetched 3 products
+[2025-08-15T15:17:37.956Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:17:37.966Z] 📋 Fetched 3 pending updates
+[2025-08-15T15:17:38.894Z] ❌ Update rejected: 689f4ede7b48aa7455c1fde6
+[2025-08-15T15:17:41.082Z] ❌ Update rejected: 689f4ef47b48aa7455c1fdf9
+[2025-08-15T15:17:42.643Z] ❌ Update rejected: 689f4f517b48aa7455c1fdfc
+[2025-08-15T15:17:44.263Z] 📦 Fetched 3 products
+[2025-08-15T15:17:44.268Z] 📦 Fetched 3 products
+[2025-08-15T15:17:51.237Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:17:51.246Z] 📋 Fetched 1 pending updates
+[2025-08-15T15:17:59.999Z] 📦 Fetched 3 products
+[2025-08-15T15:18:00.004Z] 📦 Fetched 3 products
+[2025-08-15T15:39:37.901Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:39:37.907Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:41:21.483Z] 📦 Fetched 3 products
+[2025-08-15T15:41:21.487Z] 📦 Fetched 3 products
+[2025-08-15T15:41:26.530Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:41:26.538Z] 📋 Fetched 2 pending updates
+[2025-08-15T15:41:29.539Z] ✅ Update approved: 689f4f9c6feed221b87f0340
+[2025-08-15T15:41:32.144Z] 📦 Fetched 3 products
+[2025-08-15T15:41:32.148Z] 📦 Fetched 3 products
+[2025-08-15T15:46:35.752Z] 🚀 Server running on port 5001
+[2025-08-15T15:46:39.113Z]  MongoDB Connected
+[2025-08-15T15:46:45.371Z] 📦 Fetched 0 products
+[2025-08-15T15:46:45.667Z] 📦 Fetched 0 products
+[2025-08-15T15:46:47.421Z] 📦 Fetched 0 products
+[2025-08-15T15:46:47.468Z] 📦 Fetched 0 products
+[2025-08-15T15:46:47.784Z] 📦 Fetched 0 products
+[2025-08-15T15:46:47.897Z] 📦 Fetched 0 products
+[2025-08-15T15:46:48.309Z] 📦 Fetched 0 products
+[2025-08-15T15:46:48.633Z] 📦 Fetched 0 products
+[2025-08-15T15:46:48.735Z] 📦 Fetched 0 products
+[2025-08-15T15:46:52.205Z] 📦 Fetched 0 products
+[2025-08-15T15:46:52.503Z] 📦 Fetched 0 products
+[2025-08-15T15:54:44.306Z] 📋 Fetched 0 pending updates
+[2025-08-15T15:54:44.601Z] 📋 Fetched 0 pending updates
+[2025-08-15T15:54:45.863Z] 📦 Fetched 0 products
+[2025-08-15T15:54:46.171Z] 📦 Fetched 0 products
+[2025-08-15T15:54:46.579Z] 📦 Fetched 0 products
+[2025-08-15T15:54:46.880Z] 📦 Fetched 0 products
